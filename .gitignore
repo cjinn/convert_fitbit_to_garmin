@@ -1,3 +1,6 @@
+# Outut creation folders
+_output/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
